@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+src/notion_logger.py
+src/notion_logger.egg-info/PKG-INFO
+src/notion_logger.egg-info/SOURCES.txt
+src/notion_logger.egg-info/dependency_links.txt
+src/notion_logger.egg-info/requires.txt
+src/notion_logger.egg-info/top_level.txt

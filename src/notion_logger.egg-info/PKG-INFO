@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: notion-logger
+Version: 0.0.1
+Summary: A small logger for notion.so
+Author-email: _Kamikotto_ <kamikotto3@gmail.com>
+Project-URL: Homepage, https://github.com/KamikottoGG/NotionLogger
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: requests
